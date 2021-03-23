@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site
+
+Click Here to [Live Site](https://weather-app-kappa-ten.vercel.app/)
+
 ## Weather API
 
 In this Project weather API from [OpenWeather](https://openweathermap.org/). Require to have a key, you can sign up to get the key
